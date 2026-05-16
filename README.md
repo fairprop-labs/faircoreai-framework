@@ -1,3 +1,10 @@
+<p align="center">
+  <b>FairProp Labs | Ethical AI Framework for Transparent Decisions</b><br>
+  <i>Foundation of FairProp – Measured, Humane & Fair Technology</i>
+</p>
+
+---
+
 > FairCoreAI ist das ethische und erklärbare KI‑Framework, das FairProp antreibt und Teil des FairProp‑Ökosystems – entwickelt von FairProp‑Labs.
 # FairCoreAI – Ethical and Explainable AI Framework
 
