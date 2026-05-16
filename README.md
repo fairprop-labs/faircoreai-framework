@@ -46,6 +46,13 @@ Es schafft Vertrauen zwischen Technologie, Mensch und Markt.
 Alle Rechte vorbehalten. Nutzung nur unter FairCoreAI‑Lizenzbedingungen.
 ---
 
+<p align="center">
+  <b>FairProp Labs | Ethical AI Ecosystem</b><br>
+  <i>Connecting FairCoreAI and FairProp – Transparency, Fairness & Humanity in Technology</i>
+</p>
+
+---
+
 ## 📜 FAIRCOREAI – Manifest
 
 # FAIRCOREAI  
