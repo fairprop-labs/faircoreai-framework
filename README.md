@@ -1,4 +1,4 @@
-> Teil des FairProp‑Ökosystems – entwickelt von FairProp‑Labs.
+> FairCoreAI ist das ethische und erklärbare KI‑Framework, das FairProp antreibt und Teil des FairProp‑Ökosystems – entwickelt von FairProp‑Labs.
 # FairCoreAI – Ethical and Explainable AI Framework
 
 **FairCoreAI** ist das ethische und technische Fundament von **FairProp**.  
@@ -35,5 +35,5 @@ Es schafft Vertrauen zwischen Technologie, Mensch und Markt.
 
 ## ⚖️ Lizenz und Rechte
 
-© 2026 Thomas Seidl Holding GmbH – FairCoreAI & FairProp.  
+© 2026 Thomas Seidl – FairCoreAI & FairProp.  
 Alle Rechte vorbehalten. Nutzung nur unter FairCoreAI‑Lizenzbedingungen.
