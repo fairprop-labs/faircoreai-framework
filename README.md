@@ -37,3 +37,51 @@ Es schafft Vertrauen zwischen Technologie, Mensch und Markt.
 
 © 2026 Thomas Seidl – FairCoreAI & FairProp.  
 Alle Rechte vorbehalten. Nutzung nur unter FairCoreAI‑Lizenzbedingungen.
+---
+
+## 📜 FAIRCOREAI – Manifest
+
+# FAIRCOREAI  
+**Measured. Humane. Fair.**
+
+FAIRCOREAI ist kein Produkt — es ist ein Framework.  
+Ein Kern, der Technologie an Maß, Fairness und Transparenz bindet.
+
+## 🌐 Mission
+Technologie soll erklärbar, überprüfbar und verantwortbar sein.  
+FAIRCOREAI schafft die Grundlage dafür.
+
+## 🧭 Prinzipien
+- **Measure** — klare Kriterien, reproduzierbare Verfahren  
+- **Fairness** — ethische Grenzen, Gleichbehandlung, Rechenschaft  
+- **Transparency** — erklärbare Modelle, offene Mechanismen  
+- **Humanity** — Systeme, die Menschen stärken, nicht ersetzen  
+
+## 🧱 Architektur
+FAIRCOREAI ist eine flussartige Struktur:  
+klar, stabil, auditierbar, gerichtsfest dokumentierbar.
+
+## 🌍 Why it matters
+Dort, wo Maß herrscht, entsteht Raum:  
+für Vertrauen, für Verantwortung, für Wandel.
+
+---
+
+# FAIRCOREAI (EN)
+
+## Mission
+Technology must be explainable, verifiable and accountable.
+
+## Principles
+- **Measure** — defined criteria, reproducible methods  
+- **Fairness** — ethical boundaries, equal treatment  
+- **Transparency** — explainable models, open logic  
+- **Humanity** — systems that empower, not replace  
+
+## Architecture
+A clear, stable, auditable flow‑based framework.
+
+## Why it matters
+Where measure prevails, space emerges —  
+for trust, for responsibility, for transformation.
+
